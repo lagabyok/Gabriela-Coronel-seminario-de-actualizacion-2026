@@ -1,6 +1,6 @@
 # Proyecto Integrador
 
-Proyecto realizado para la materia.
+Proyecto realizado para la materia seminario de actualización 
 
 ## Descripción
 
