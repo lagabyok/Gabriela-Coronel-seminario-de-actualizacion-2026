@@ -2,6 +2,28 @@
 
 Repositorio correspondiente al proyecto integrador de la cursada.
 
+# Clase 02
+
+## Actividad: Laboratorio Clase 2 – Preparación del entorno de desarrollo
+Seminario de Actualización · IFTS N.º 18
+
+En esta actividad se preparó el entorno de desarrollo necesario para comenzar con el **Proyecto Integrador**. El objetivo fue verificar que las herramientas principales estuvieran correctamente instaladas y configuradas, crear la estructura inicial del proyecto y dejar preparado el entorno para trabajar con Python y Git.
+
+Durante la actividad se realizaron las siguientes tareas:
+
+- Verificación de la instalación y funcionamiento de **Python, Visual Studio Code y Git**.
+- Configuración del nombre de usuario de Git.
+- Creación de la carpeta del proyecto y apertura en **Visual Studio Code**.
+- Creación y activación de un **entorno virtual `.venv`** para aislar las dependencias del proyecto.
+- Instalación de una librería dentro del entorno virtual.
+- Generación del archivo `requirements.txt` con las dependencias utilizadas.
+- Inicialización del repositorio local mediante `git init`.
+- Revisión y configuración del archivo `.gitignore` para evitar versionar archivos innecesarios, especialmente el entorno virtual.
+- Creación del primer **commit** para registrar el estado inicial del proyecto.
+- Verificación del estado del repositorio mediante `git status`.
+
+Al finalizar, el proyecto quedó con una estructura básica y un entorno de desarrollo preparado para continuar con las siguientes etapas del **Proyecto Integrador**.
+
 ## Contenido
 
 ### Clase 02
