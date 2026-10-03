@@ -13,9 +13,9 @@ Función propia: agregamos convertir_temperatura(celsius, unidad), conectada a s
 Ejecución y enlace público: la aplicación se ejecuta localmente con share=True, que genera un enlace público temporal para compartirla.
 
 
-## Aplicacion readme
+#  Readme App
 
-# Perfil Profesional
+## Perfil Profesional
 
 Aplicación web interactiva desarrollada con **Python + Gradio** que permite generar un perfil profesional personalizado a partir de datos básicos del usuario y consultar noticias relacionadas con su profesión u ocupación.
 
@@ -23,7 +23,7 @@ El proyecto combina una interfaz web simple y responsive con procesamiento de da
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 El objetivo de la aplicación es crear una experiencia sencilla en la que una persona pueda:
 
@@ -38,9 +38,9 @@ El proyecto fue desarrollado como parte del **Seminario de Actualización 2026**
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-### 👤 Generación de perfil
+###  Generación de perfil
 
 El usuario puede ingresar:
 
@@ -62,7 +62,7 @@ La edad también permite determinar automáticamente una categoría:
 
 ---
 
-### 📰 Noticias profesionales
+###  Noticias profesionales
 
 La aplicación genera una búsqueda relacionada con la profesión ingresada y obtiene noticias desde **Google News RSS**.
 
@@ -88,13 +88,13 @@ También permite realizar búsquedas utilizando directamente la profesión ingre
 
 ---
 
-### 🔄 Actualización de noticias
+###  Actualización de noticias
 
 El botón **"ACTUALIZAR NOTICIAS"** permite volver a consultar las noticias sin necesidad de regenerar todo el perfil.
 
 ---
 
-### 🧹 Limpieza de formulario
+### Limpieza de formulario
 
 El botón **"LIMPIAR"** permite restablecer:
 
@@ -107,7 +107,7 @@ El botón **"LIMPIAR"** permite restablecer:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 ### Python
 
@@ -201,7 +201,7 @@ La interfaz también adapta determinados elementos para dispositivos móviles.
 
 ---
 
-## 🧩 Arquitectura de la aplicación
+##  Arquitectura de la aplicación
 
 El funcionamiento general puede representarse de la siguiente manera:
 
@@ -235,7 +235,7 @@ El funcionamiento general puede representarse de la siguiente manera:
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 Una estructura recomendada para el proyecto es:
 
@@ -285,7 +285,7 @@ venv/
 
 ---
 
-## 🚀 Instalación
+##  Instalación
 
 ### 1. Clonar el repositorio
 
@@ -341,7 +341,7 @@ Abrir esa dirección en el navegador.
 
 ---
 
-## 🔄 Flujo de uso
+##  Flujo de uso
 
 1. El usuario ingresa su nombre.
 2. Selecciona o ingresa su profesión.
@@ -356,7 +356,7 @@ Abrir esa dirección en el navegador.
 
 ---
 
-## 🌐 Obtención de noticias
+##  Obtención de noticias
 
 La aplicación utiliza una URL de búsqueda RSS con parámetros regionales para Argentina y español:
 
@@ -379,7 +379,7 @@ No se requiere:
 
 ---
 
-## 🎨 Diseño
+##  Diseño
 
 La interfaz fue diseñada utilizando CSS personalizado sobre Gradio.
 
@@ -398,7 +398,7 @@ El objetivo es que la aplicación tenga una apariencia más cercana a una peque�
 
 ---
 
-## ⚠️ Manejo de errores
+##  Manejo de errores
 
 La aplicación contempla diferentes situaciones:
 
@@ -420,7 +420,7 @@ Si no es posible acceder al feed RSS, la aplicación informa que las noticias no
 
 ---
 
-## 🔐 Consideraciones
+##  Consideraciones
 
 La aplicación no almacena permanentemente los datos ingresados por el usuario.
 
@@ -430,7 +430,7 @@ La consulta de noticias utiliza información pública disponible mediante Google
 
 ---
 
-## 📚 Conceptos aplicados
+##  Conceptos aplicados
 
 Este proyecto permite aplicar conocimientos relacionados con:
 
@@ -456,7 +456,7 @@ Este proyecto permite aplicar conocimientos relacionados con:
 
 ---
 
-## 🔮 Posibles mejoras futuras
+##  Posibles mejoras futuras
 
 El proyecto puede evolucionar incorporando:
 
@@ -494,6 +494,3 @@ Tecnologías principales:
 Proyecto educativo desarrollado con fines académicos y de aprendizaje.
 
 
-## Autor/a
-
-Gabriela Coronel
