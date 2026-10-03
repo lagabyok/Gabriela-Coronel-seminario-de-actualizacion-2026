@@ -328,13 +328,16 @@ pip install -r requirements.txt
 ### 4. Ejecutar la aplicación
 
 ```bash
-python app.py
+python app.py 
+o
+py app.py
 ```
 
-Gradio iniciará un servidor local y mostrará una dirección similar a:
+jecución y enlace público: la aplicación se ejecuta localmente mediante Python y utiliza share=True de Gradio para generar un enlace público temporal que permite compartir la aplicación.
 
 ```text
 http://127.0.0.1:7860
+Running on public URL:https://a84d78b13fc7856ca3.gradio.live
 ```
 
 Abrir esa dirección en el navegador.
