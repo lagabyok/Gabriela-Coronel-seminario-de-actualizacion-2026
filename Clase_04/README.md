@@ -1,6 +1,6 @@
 # Portfolio - Proyecto Integrador
 
-Repositorio correspondiente al proyecto integrador de la cursada.
+Repositorio correspondiente al proyecto integrador de la cursada Seminario de Actualización · IFTS N.º 18
 
 ## Contenido Clase 04 — Interfaz con Gradio Blocks
 
