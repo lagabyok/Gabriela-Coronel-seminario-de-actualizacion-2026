@@ -173,9 +173,9 @@ st.markdown(
     /* Botón */
     .stButton > button {
         width: 100%;
-        background-color: #111111 !important;
+        background-color: #808080 !important;
         color: #FFFFFF !important;
-        border: 1px solid #111111 !important;
+        border: 1px solid #808080 !important;
         border-radius: 8px !important;
         padding: 0.65rem 1rem !important;
         font-weight: 700 !important;

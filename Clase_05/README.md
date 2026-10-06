@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
 ### Aplicación Gradio publicada en Render
 
-[PEGAR AQUÍ EL LINK DE RENDER]
+[(https://perfil-profesional-app.onrender.com/)]
 
 ---
 
@@ -67,7 +67,7 @@ No es necesario que la versión de Streamlit tenga exactamente la misma interfaz
 
 **Aplicación Streamlit publicada:**
 
-[PEGAR AQUÍ EL LINK DE STREAMLIT]
+[(https://seminariodeactualizacion-appperfilpro.streamlit.app/)]
 
 ---
 
