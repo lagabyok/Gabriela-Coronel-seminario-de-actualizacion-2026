@@ -67,7 +67,7 @@ No es necesario que la versión de Streamlit tenga exactamente la misma interfaz
 
 **Aplicación Streamlit publicada:**
 
-[(https://seminariodeactualizacion-appperfilpro.streamlit.app/)]
+[(https://gabriela-coronel-seminario-portfolio-app-perfilpro.streamlit.app/)]
 
 ---
 
