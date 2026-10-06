@@ -40,10 +40,11 @@ La interfaz fue desarrollada con `gr.Blocks()` y cuenta con estilos CSS personal
 Para que Gradio pueda funcionar correctamente en Render, se configuró el servidor para escuchar en todas las interfaces de red y utilizar el puerto correspondiente.
 
 ```python
-demo.launch(
-    server_name="0.0.0.0",
-    server_port=7860
-)
+if __name__ == "__main__":
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=int(os.environ.get("PORT", 7860))
+    )
 ```
 
 ##  Deploy
