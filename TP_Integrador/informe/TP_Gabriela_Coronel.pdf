@@ -1,399 +1,1753 @@
 %PDF-1.4
-%°≥≈◊
+%‚„œ”
 1 0 obj
-<</F1 2 0 R /F2 3 0 R >>
+<<
+/Producer (pypdf)
+>>
 endobj
 2 0 obj
-<</BaseFont/Helvetica/Encoding/WinAnsiEncoding/Name/F1/Subtype/Type1/Type/Font>>
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 10 0 R 12 0 R 14 0 R 16 0 R 22 0 R 24 0 R ]
+>>
 endobj
 3 0 obj
-<</BaseFont/Helvetica-Bold/Encoding/WinAnsiEncoding/Name/F2/Subtype/Type1/Type/Font>>
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
 endobj
 4 0 obj
-<</A<</S/URI/Type/Action/URI(https://huggingface.co/spaces/lagabyok/bugtriage-ai)>>/Border[ 0 0 0]/Rect[ 185.178 466.879 343.694 477.919]/Subtype/Link/Type/Annot>>
+<<
+/Annots [ 5 0 R ]
+/Contents 6 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
 endobj
 5 0 obj
-<</Annots[ 4 0 R ]/Contents 16 0 R /MediaBox[ 0 0 595.276 841.89]/Parent 15 0 R /Resources<</Font 1 0 R /ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Trans<<>>/Type/Page>>
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057huggingface\056co\057spaces\057lagabyok\057bugtriage\055ai)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 185.178 466.879 343.694 477.919 ]
+/Subtype /Link
+/Type /Annot
+>>
 endobj
 6 0 obj
-<</Contents 17 0 R /MediaBox[ 0 0 595.276 841.89]/Parent 15 0 R /Resources<</Font 1 0 R /ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Trans<<>>/Type/Page>>
-endobj
-7 0 obj
-<</Contents 18 0 R /MediaBox[ 0 0 595.276 841.89]/Parent 15 0 R /Resources<</Font 1 0 R /ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Trans<<>>/Type/Page>>
-endobj
-8 0 obj
-<</Contents 19 0 R /MediaBox[ 0 0 595.276 841.89]/Parent 15 0 R /Resources<</Font 1 0 R /ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Trans<<>>/Type/Page>>
-endobj
-9 0 obj
-<</A<</S/URI/Type/Action/URI(https://huggingface.co/spaces/lagabyok/bugtriage-ai)>>/Border[ 0 0 0]/Rect[ 57.0236 676.551 307.084 690.551]/Subtype/Link/Type/Annot>>
-endobj
-10 0 obj
-<</Annots[ 9 0 R ]/Contents 20 0 R /MediaBox[ 0 0 595.276 841.89]/Parent 15 0 R /Resources<</Font 1 0 R /ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Trans<<>>/Type/Page>>
-endobj
-11 0 obj
-<</Contents 21 0 R /MediaBox[ 0 0 595.276 841.89]/Parent 15 0 R /Resources<</Font 1 0 R /ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Trans<<>>/Type/Page>>
-endobj
-12 0 obj
-<</Contents 111 0 R /MediaBox[ 0 0 595.276 841.89]/Parent 15 0 R /Resources 110 0 R /Rotate 0/Trans<<>>/Type/Page>>
-endobj
-13 0 obj
-<</PageMode/UseNone/Pages 15 0 R /Type/Catalog>>
-endobj
-14 0 obj
-<</Author(Gabriela Coronel)/CreationDate(D:20261009054506+00'00')/Creator(\(unspecified\))/Keywords()/ModDate(D:20261009054506+00'00')/Producer(ReportLab PDF Library - \(opensource\))/Subject(\(unspecified\))/Title(BugTriage AI - Informe TP Integrador)/Trapped/False>>
-endobj
-15 0 obj
-<</Count 7/Kids[ 5 0 R  6 0 R  7 0 R  8 0 R  10 0 R  11 0 R  12 0 R ]/Type/Pages>>
-endobj
-16 0 obj
-<</Filter[/ASCII85Decode/FlateDecode]/Length 1187>>stream
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1187
+>>
+stream
 Gatm9=``=U&:W67fLIl1,Ie!\H#jJ-mW@/DB&E4^;31u'?3\ODR/Zk5.$C8:a_?s[Z:FtRh/C'A(f:-?_f&i_][#Hs%0OTngB!L+6M<4Jb>qChU/RLo%7D_<aon=L2[m@6>u`")@9OTZ65-NMPX>b69F96AIG?@2@5StM;848h<):I%!@#%9BUjlHBdFngirq>mS?;:6,`HFA=U>nJqgB6mh)i-\K7DgqQ+jQ?f<E5b]^'Fns0fIF$RI:\PcGlKH\C`S[(B/+Yc*edA*(J-Kk,O0#]+MJ*r22lTpK"4%Ok=E$`T6.dfN."=TJ8n7T3^qT+]BL@4YD6rPW7S8]:/iL'&MW6^!NdL7G-2F$.dW8AXc(g&&DIgNQ3)"S:n\AjCb_(,nlgs!\Qp=ZYKX>S0?+R#"B`P#-72`:^"3Xl&r%VB;.AkI3@h-Ffo_SSR8t$_\(*>.UiF<Tg$YTWGW*(nu8!4ZUJ\6=dr&ohBD.l@Q)'[[u=;PS'+,g$M2*6o/[D%@?41;i00W'1p\%J@q6O&&_"+H$mPT79Z^99aH>0"NBY&/92ia_85QYM@PLSr!e&$JM02gemt1?4>UM'a:q@V`4Qor&*^no$\TdAaq-oMALki`,SsUf)uE`)'4Ma?S^2*@aR257@GrW,muMIaMQ!_3_*3MAjbe^K2@-h)aWB@VZK=\Ae'Gjo;>'[8GMRIcYcm!9DM!(dKf=.Q.p"h<JC0#F;`5uA$X;dkUA:Zg'M-\kic9s%#5^gJ4i)Yf6^^gH`0ElKRm6UnlqDc9Z+5LB#(Ki&P,GPNLaTk1$3)*>lfTOI58Is=ISB+G7dT0ci:c/d*c9@Nd=oq=AbYAF<,tSF7K:^,<2#LY+;X483;('COAn[3%Rk]?j&_\6E39@83L8k,s6.FH1mZit`5?i4piZ2l3rbn&"aOC]?0H^H"S]_J]aaHIAprDJDNF6Lc4PC;mp0;^^928Q:H`m7emX-t*4E60gSeuUK'a8lURp(D6L--=f4!&`Rnu&X->-8%k)UHV&gd0QJiS"j8`3gN"&;l_R@:"jgH+dr"CD73h563,#oXa6\3C4Y!q&QS2ME[K-"(;q_W;GPki_/H4IQM.^mV)j"#`:7^2qqH!o?HC+VNZ!HPc//jGCdR005!r(b"G_MR?!<dZ8GUD74T7O#CW7YCo2fbiHl:0<G-Vr"D9C~>
 endstream
 endobj
-17 0 obj
-<</Filter[/ASCII85Decode/FlateDecode]/Length 1600>>stream
+7 0 obj
+<<
+/F1 8 0 R
+/F2 9 0 R
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1600
+>>
+stream
 Gatm:9on$e&A@P9Qt%&EMS:CGLVdbh,!ZW0irD7'6;t87<"]q'gt%D]pqEFcesl<L7C'P0efm+1SG20j,S]8t$(nLJHFg"%cP&oKg)hccUR_$2l.Q'u_bF*3EDb=%eR_qG"eI_\D!@:YDgKRl.&lNL9j&L5AQ>SV;3=pW>aORN]9_=/bRSBr^Q$ChI$B=,MR%>n_g.I]AR/nY:OF:QK3Z*c78tO(S^>*G7o0(tDm_PRg:a/?oL<u7(KMJin4#Gl>(%coI[?=&:MH>bhpD?cm2r[l$fa[m7cX'5nQ51b4?:5#V&.0Y,9Q53gbR-sPcD$JW]7/D7o!-uXlF4jGil5";3Fmi?@?jhQu[BAjEX?h`@4@lcH)bd7*f$TX?!Yf'+[5*^$dq=ML45P)-:qjT2QN#i&^\hpZt!C&ej2+PQh(?bt.,Pf)qU8A"uM%X_D!,<_7^94e@;2:5*8522ct7.'7YPJgKu_B,&>p@@'o9,X].el=<=JSSMjS&]*:Da%*2h_5dd#7V1gleZFELh&hXD7*GUgm\!A4Yh;e-a];O/(p":2n(6Vh[%%$QPr9CgYUtVVg6:--d&;S#]sgU.WuS,[XE%`.S[$H)gZaW0M*4uf82NqbdD3r3;3A3E+Pn=cd=ZVk%</O-(=D*TDW9oKK58-LQ8i<1e$MT;HYN=R,@qj<o\\;fF`N=e%cjsLU3%>%gCd;0b<G)p[dl&=8j2,3C/,Zj#)UNm/)9=LV>G,DND[H5TH6O%a`>5SHht25^O06SBj,/n5-*oB31.Cf>d1TR*FHb`0!2,q\\^Eqip7V[)g>u7W/k-AMe0O*h2%)tb4M'8`j@`#'7gB074n`LC9Y;u"=Tq>Af-4:FG,=S)Jl(oY?4MhR'gKmULq-<)d75?!PZ?2EDk/63\\8BiJP">q,]rVNG8>8J7'F33P$_/V5W[Xr8463`DQ;(ZLU8\;3RL_0slIE$1ACITFYAR1;c@;oqsTEaUG%JT>Le"_'@'E6cs,5G%1B0T)2i/jLX0KE4p\ijR',ig3Kj'H`%hZ8[qUW4"8^Y%fj0Q%:i%(12mqOjB-?Y0]<_G&I-1,W:/,CQLJ&,3eL57$*-V(mZuB\%Yt[gGMirEUXut7G(+B\()_Ab_kqFJi(@gaTnX[gbK$G#-hCD178];9Ljfr8G-)IlA2.j[iXS?uYD=<X0:V$(i7-7(ST3j=pE`&Ok'QC(@ng^=\0+/>g@/n6O+WUH+s]1"NBS4@H5;=@6*e4W-GM&91qYW<]eF@O&NO@MKb=A;*]t:dd%om("gjL[)UZ5L;[Tcp:RED8X)?Q`@+bWGO8]i:0*Qs1eLA9uZY#ob)91#eQ+_*B[t9IKD"u8M%1/tr62Mp?)I1CB*Y8$Qj:=H:7Z'AZN_4oSk].T3Rp4Z*/L[gg92rZ^=)[94JVO_jKK=,+*rdO@4H8X0b,e[.=GP;_oo9\Gjijt<82LPb`e&=i@bp;a.u4j%hu^XJHBrhg)1)W'4nW6H^sk(2SYLDcMMi>pbXnj!%AoQ8EL^#<PCr+%n&3!M;6:=,ml^K#nY$=qS-dEa$&sdqde"BD:qM&?VWghoCUk'!MU\&lR6.[0i?nWPc!LKdGLH~>
 endstream
 endobj
-18 0 obj
-<</Filter[/ASCII85Decode/FlateDecode]/Length 1990>>stream
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1990
+>>
+stream
 Gatm;9lo&I&A@sBm%lL57\U4Y4$D7kdV6ai8K8b!JOimo6P9_s]!8.t^2HT#U6B9W1pU[k+FnlurPDc)5(5s#5Hfkq<cn%9OH?i\+VB#DXY/k_lK$-FQR70GVW=SY9Yq(]&2,fMqX^M[0_Ii&Agmn_-fZJ7<)F>VStF$mr`r);:I]l!j_%m^MYD`%LV,la+i(c6MUOO-\)@d*<,t<fOV\=d$<gGOHI6S1cDZ`"o=sKrqPYoC.q^CJGa#V-.a<Ugc#jR&2+_/p05,K$X-\c,'-7GqlGns>^V:7FZ%5.IB%oMb*n*<C;?jD%,`]RVpJ]_,c/iT;+(U%;#\i?+Oi1]!c&$fT)<U:f,a#<&UgT+N??l+>UrjIa[#]0UN%AEkh'7j1:XTf1K+5L8=F>lDpg,_+$[?-"Gi/`grhUgH/PSF^X_SX4V/"6!m,`kCG1h8Km46UBQ/+ni2S-%qVr7^BlM[<k3ncX,KjSk)pJ\N7mHW8cDU"MC[ofr/7T6:1-U-oDD%s0koiE]XJ$b?C`k;iCW\-u=n9&>)dS4L,7:3Xl+;2$2^i?s(8SkMDWq7mmA%ctEJRd?tg(Y=nG_4J\f/[fT3OdO>3T[KAYg&!TYXYM(d5ZSm'K51&(;,C@o:!fY'cr2%>W&t[T([)mKld9Kn89AiPF4)0(f-*Bmis?M,"i?dgjAbNW2[L0A]K*;KMN0oR0Z-:&RN:p!kZId,k)ubYp7P)7S=V.kVV,.4Ro^3*j[Ql,sQY;DI8dUG%!)k5p`72jS!`<muJZjWjG\_VC3MYHWDTc8OB]05^b@"5/3I9FO2QoOC"(m>E8u5T')YCq*!$9[17JT%Y=p@n3WNBGi1*IX0"ep'ZQ_a5^n@QpEC_tDX0Pqp]&,Ihr*Cj>d(:.I(!(Y?'`WMoWkJio<eIWW'o]"I%Pk_ldPW&aQjX<g]*)frZ^suE#Q`\*!ti"Ff'Ss<1VM+XEq!%hH[24nh+%I<MPmf@J"-]Q)uK0]tph]j;5*WAb*2]NhrJ+(NIkb69`j1a$L7P,5RuLrl3hIfFQS9aA;\;'i2PR"(jdU8H8$L?aVOsrKoT@h8@QNr(!shq9%BZ6_[BtB2]Z7-Mh15S*J&3Um1E-.2FuSAmtk)$jPesdpQAKiS`PQVpjbs_Z`p6kk=eJbNlR]9f%llVf0gN-D(!H<YU:D3716UMndb%Es>Zr%[AY5'aMu+]5G5BbKODQ(JZn[0AO+*BsbM4DtfX"1"X^n0U!sTQ9>[\K2-foPl&ZE,'UU%,rtF/`dmPJDn6j]-H8DO(1.;<W#)3kYb%u_1m4E"!E\R4Ygq<Uhd@5TAMPmgdku)Jkc2O<a!=:+`VJ$kLl.X=X$O$3$fC/O4&s"HLomhrJa`^/gXE8.L,aXUnf;kck;Q)/Ch%YWGSfrsAjq%R\Do$ai(9%Qbru&!U%S`W<*@SY<]^l'(4;FUS"+`5@SciRTq(F)nt'+j8Rh+`#6(r&q%I@s-Y81BP9^,'n2$V'4<;A4*<]>jk<K/QN?GZc&sPq8Mibi=IckrEJ:N&lk]7(enQ.]GWtDHs`<B>oY3l0dXUPZ_5M8&(L6N["=5@VP0!PnHZ`k57&:Si#(hDp8^iZTq>m,`f$4RSn@pG(3\$K0:h/7(F[a5CS@!Y0!/D2\h0st`??*A.+B!5#7#:6eph(IQW&^\l]FAqeJdC_7D@^5\!NI'O\6''FSd!YuV<WNceEU5`ESPkEQ<bjML1B-!Y_6GbS^eq7<]s/%V8>Q+3JS9g&69QQf6g5[EU>J$rpfD?gqKd7NAPV_C+.bT0@sO)r1IrhEESe\EKkW8f'<N+=$C@)khW&U*B^37sYb:!iS7;t9"O@PCR]XF=Ke60[lkV5&FecLFls$lG8JqW&qF]9dkA4:A.3<6K(a+aN2Aa0goQ]FbPQNP'(2ND6PpJ(`XYUK9%,1QTCNa]AL#D)1_i]M&I$iFA1tm%Jj.90QiStsqc+[U+ce2qTJ@.a&I2=kbnfRRgTje~>
 endstream
 endobj
-19 0 obj
-<</Filter[/ASCII85Decode/FlateDecode]/Length 2066>>stream
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2066
+>>
+stream
 Gatm<a`?,q&A@rkqWLL2#XNDmAoksjR?V4IQjZ;K$654*!7H^&oC:9=/u!/t/8#Yu7$/V')t3GL%KZQKs&mhOD\hj-S-':1YlYuO#SnN@rSlo8$-Ua>c8&d1&uJNbf*EJZE:r1cJLG"jbOQ'0`kiuq6`;/g;ANe7Z@,ciouWjL,Pa>m#4YC^J&"I>8#Vr736;d6G"iqN@-"+0N*4AM`aM`^l'lS(YZe1E]Y8oGi*+[BO]EDLnO_,OZI6KuTtcCO1_9k"ncp^`@.Aj@c@j6.KEfQ$nB3I/ibK56d;7QM`+.MVV[Q!,6CK/N%>#".,e/Fg$UbJLNDLNIcI4%2n!tkWLt''u%tUV]8]V4#e$fbBH%YVqKs;CXAL[/MP<3A=DMSQ8h\s@q+O))eTSJbW488nFGfg4p3"j^30:;7kI$EP_eVt\4[?4KV,saJlZ7G_YI]+RP?,=OL691+?DH=o[VU4lBACl4t'W;6*SPm!mV:?J+8C%f<P5(uCBYs-YX=TLP]CEP3pei:&>'`?>_+t0U[7!iDa;A,*9r2qW+8=5Wg=:pO\l2%5fE'%sfc7O.E>'<oQj5`Ln;;GL+baC"OS;W$;eYHUBbUX0p+"?!ka[P:ic%EXIc"j%;_^[&@7_O&n1or)%-Sh7(FLaU.*eSM#jFYpVepFhjr=3pIO@TIN%X)L5O^$,Vs#3S:/FWAgNkplMV8%sgb;"Sj.;Io?&\JDPijTX"L;u?]iXEKVK$XU.p^;<YAt3Z/;`BYW60;dqk!5kmmgMBOJBDEe'7@G^)5n<O0/R]&&[QOS;YF1?`?@FI9]s`0t((pYYhj[/`h[j/M5!6*Rl+L[&$T;e_8Y/,*(d<PQMn7VXQ0?iAhh0l<ENHa7Yb4UB1.&\&N0eL3$KG\DH0,?L8'[fo`XJlA_fcUL7MAj&X1Nb3mS*'7&9;STZ*!QZe\ca0Z>kPVk,M=4<lo2n8!8[2SXa.js@P$e^a]A*lQE*RE[<9l"QTi:=&LC8d_'P=89PQ5n(LrpFROS(C^Lq"rO\Ml-l>NtuPMAQ<inQ4Ff^M+CLW_13D$*emp8I5&+pB1meWbt+=;4FjadHmW*-Ir\^q8^ZF(=(&#Q:Bo(6:--(c3fc;Z?qSo.JGRBpC2(o$\Rk&,<o)E;4O*A8/9r+0CCg\po:rL`'V'SIjErWsdMYjX`cc*R*EY$U7#`(L[ha<B\*^:!0?:*#p:1u&VQ3m'RR?j7'"2;c<X(.H",u'+[+84,A(Bitr-s?o$2%l.47bTf?E)s"1n%fJqdXB0l>?8_[ks+%hQY["Yk'iA]f:@MO.a4^RP4LBdkXW743RW>\=DC0SB^ecSL$!CjC7U/Z>$o'g*CWjo.8;cF>L(LhU`"QiHBftoS"\X?DDmSFZ4bWkSfn/)Xi#KpZ`>;bOF1`%ZX$C^+"gn^d/3P&nfQ(jU+ZZ9%T%#$H#h=DbNNZc_3=[9N`&mG;GIu#(j\gBi$75(nFtR.cttNMWd#od`=r<]_TBghNguo]EPpb&l(Ut%AqJodf#`W&JOE"U6:Ls2Ukc!#4]tVXh*'.=*<,sLBP5Y'CLsL6<!\&?2ZT[W)D:NVPsj;%ZfZr(Y]#<B8DhLYlT%E&Z]YfM!Kk]Zf'N>'C?g$hdNo:@h?\OEe&ctiO,I#@_Qo9T0n2$0CA6E5Fe$4<RY(9'0$?4oo@s9B'WboU[;4k=K&-&M;Lt0Ct54)A@O&t%G_QWlcscW*2SdhH#&92kh=$Pg1j1&o\J-PhLg2Y\VKsZe+V@.!:T9C`97s$[8?/YHuA.2W*^N2W>Jg'*gJOr<*45uHGB"\NCPBS9l3f66Q7FAGc=nSlaHbB;eQC;E.F.0.%gCRs)QP'[I1-*D<^<&K-+Jd+F`A&RfCN?*taL`HrH"0<>PQ=):.6(IXps69j9RU*9/9Ue8'G%@ijj#A3ZnNK[q?-n@%r&6n/!*jTRIJL$BQIZ>5<_ahuCpZ;X;'gFFW>?"q5IP'BZU#&^9fE`m\V)njJ>2N`N@8"_ZgGTqF^]8FIk^s76/J$N:caFa7[^F@f@#=<^!]YpKP]rZN'PVIsKrh._kPCETk$t\]~>
 endstream
 endobj
-20 0 obj
-<</Filter[/ASCII85Decode/FlateDecode]/Length 1805>>stream
-Gatm:9lo&I&A@sBlqu"a&4'4l85;b:31WWQgfWg7isS7A'N1*e!Dp$VrUJ\I-(:-b7\-gOO^naQO10&b/r'FV\UQ1LJ@A1=^ZWC"=K[4q/;E7V\6N@q?*Gjh(0Lhm9>WMli-UCf3IJQPBHbY<ca#Zc-t?\KVBIe#Lf5("8b-h$_p-0W5t:QhQL)l&aSu6u_E:<N/6X<%&qR%G!PT(boF`e/K(Fr=Z@U]`^02F$.LC$BLO\5O2Q@K]BdiMIE4r4#G>Y<n.#D+5K/!*)Q="(rK)AB&0/sgYP/kSGDki\$BFkrCa8S=d`of&!0M4Z&PD#buO<KVe=-.&\PQSY?BFPgABbI=6)$LS8S,)pmGY4'NS.M+%@rPR\!aVpPO8PUCbS-:*GihSZAheTO0P'#pJ)WHq=?8G)=G`a0&W==%8!lp7#R0Gg<NQU*C++2!TgqpI7jeO\YDakAGM0ig^-^0rGV9C12]]V9T958,[`[j.4SA1YRVSIWXZU.j1-jjg!7=u!K3><.#ZGQh(-f/=9i6$bFM\<0e2l&/"$;TOA^NSJTGF2(-d>hBBCO;U>-"Y^A"^mOJ,/S`D[$%bNP<"'!Wnl(gY6DX/`!JH+f`=JF3<'qTMMLBH7')ug!?^bjRKTl1"Io8^qr4lH%PM[?hBR9dE!+f[&C1[AQoh0h//C2<$ZmHq_XbQcf7.'^<8WQJ>ER[3I,Q%AO_/hT!C&o,303!&_8VJflP&[TQr3tHfJ@D?d7c'JM(`^JJEKK4eD7K<+<8aJ'V2EjZFJh$?\gI$iXtP^,b\cO=enTQM(ae*4oqWs2YLBR0V`uBB4!gH9^h$R#.tUh<pPP4mCPNaDrPU9l-o8)2XGD/Z`,?F=)Y=Z_P.#Oa#G8ZGF1)F8,*UFd+!$QEi*,Y].9s)h#lUkK>gQ5$bIk4DDVI7WjJe)&mt#I+K-fdd=bgHk2c%heFN?)G+nb]\JCU*ube\M'Tp:X[#!<`VAi_:D*XM))9S5[6k,(BCtA=#ldR\\i(HEm75T27JBZO&I+9Ai.$Z3*</R`;2#Bu?)gMLQ*?On@MugN_Nf.t*M-Hb(.Pbm3W6MdO`Y)";lrR#V.S+LUE%ib(Hi@(N+pR.R[^JR]K9Nj.gbnU?/>DI?]3r1:1"O],P$a;/mqe@`[fc(S^I>p*%9PPrQ:V8j48a.PVd]g;lrO(U81r=TV`24LO>d2a@^]se^B<+'`F=E(c2:uZBYV'dVWOK6gB>`BN?t%r*VORT'-fh<MCc8dcEr+G:O:H5Hq!kc;hL-VNL&g(mfm5fkB0aPuj>qhbs''#.&Jc9H2b%)1U3PjWia9@=_tPE+[:?k;NnS;'883f8*lb\%SlPddJXh_HCT*eQ`BaI>-;te6dQ]hfF0qF=`42mo?KC@IOFBmY8sMhJF*!'2G[:)`_!m_N_Q\+E7kkiU%JmLiQ"pi3)g>QVQKekFl_1:*X*QD+GWlT!T1C2P;O>YOU>S?YDJFa0'tfO(93=P?C77R\bAE+q6s">DJt==O1^8%%O=&%a04F49HUM^?^X6jKt.%8_XdD:tCD9Z/nUJYjRd^:j/Z#>.'!\1WiLoq_OB(Zc"/j`8,:,.(]!4hP2W3q(kY,2.:/.@@3spN9L(+<MB'P-RYm\I6:DCAT8LE#GgbW32R!_plQ^j$`9CJ7NY$I(H&_>)EZ"HZ<%r_f\7TjduLNSIuCAbaq$<%M9MWl$A10!##?O<]CJA?L8B-=1gNDN:^&;"f08SV(ksO\=r8[E_A:*k%.'RAU)ul%Ts2@>qBcX956AIe*;,:pWc;kmaZnVDO6HodrrUN2.\$~>
+16 0 obj
+<<
+/Annots [ 17 0 R 18 0 R ]
+/Contents 19 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/Font <<
+/F1 8 0 R
+/F1-0 20 0 R
+/F2 9 0 R
+/F2-0 21 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057huggingface\056co\057spaces\057lagabyok\057bugtriage\055ai)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 57.0236 676.551 307.084 690.551 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057lagabyok\057Gabriela\055Coronel\055seminario\055de\055actualizacion\0552026\057tree\057main\057TP\137Integrador)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 57 278 542 292 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Length 4831
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.870588 .862745 .847059 RG
+n 48.18898 38.26772 m 547.0866 38.26772 l S
+BT /F1 8 Tf 9.6 TL ET
+.333333 .329412 .356863 rg
+BT 1 0 0 1 48.18898 25.51181 Tm (BugTriage AI | Seminario de Actualizaci\363n 2026) Tj T* ET
+BT 1 0 0 1 515.5106 25.51181 Tm (P\341gina 5) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 766.7008 cm
+q
+.098039 .094118 .117647 rg
+BT 1 0 0 1 0 4 Tm /F2 17 Tf 21 TL (D. El deploy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 716.8008 cm
+q
+.160784 .156863 .176471 rg
+BT 1 0 0 1 0 30.7 Tm /F1 9.2 Tf 13.3 TL (BugTriage AI est\341 publicado como una aplicaci\363n Gradio en Hugging Face Spaces. El repositorio del Space contiene) Tj T* -0.081047 Tw (los archivos necesarios para construir y ejecutar la interfaz. La configuraci\363n de ejecuci\363n usa ZeroGPU a trav\351s de la) Tj T* 0 Tw (configuraci\363n de Spaces del proyecto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 694.8008 cm
+q
+.478431 .290196 .243137 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Enlace p\372blico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 673.8008 cm
+q
+.94902 .815686 .768627 rg
+n -8 -8 497.2283 30 re f*
+Q
+q
+.478431 .290196 .243137 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (https://huggingface.co/spaces/lagabyok/bugtriage-ai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.8008 cm
+q
+.478431 .290196 .243137 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Archivos centrales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 619.2008 cm
+q
+BT 1 0 0 1 0 17.4 Tm 13.3 TL /F2 9.2 Tf .160784 .156863 .176471 rg (app.py:) Tj /F1 9.2 Tf ( interfaz y l\363gica de clasificaci\363n. ) Tj /F2 9.2 Tf (requirements.txt:) Tj /F1 9.2 Tf ( dependencias Python. ) Tj /F2 9.2 Tf (README.md:) Tj /F1 9.2 Tf ( descripci\363n e) Tj T* (instrucciones del Space. ) Tj /F2 9.2 Tf (notebook/:) Tj /F1 9.2 Tf ( evaluaci\363n comparativa y archivos CSV con los resultados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 597.2008 cm
+q
+.478431 .290196 .243137 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Proceso de publicaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 538.0008 cm
+q
+.160784 .156863 .176471 rg
+BT 1 0 0 1 0 44 Tm /F1 9.2 Tf 13.3 TL (El c\363digo se versiona con Git y se sincroniza con el repositorio del Space de Hugging Face. Los commits documentan) Tj T* (la implementaci\363n, la configuraci\363n del Space, la actualizaci\363n del README y la evaluaci\363n de modelos. El) Tj T* (repositorio de GitHub del seminario es el destino acad\351mico para la entrega completa; conviene mantener separados) Tj T* (los cambios de la aplicaci\363n desplegada y los materiales de evaluaci\363n/informe.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 516.0008 cm
+q
+.478431 .290196 .243137 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Prueba de funcionamiento) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 470.1008 cm
+q
+.160784 .156863 .176471 rg
+BT 1 0 0 1 0 30.7 Tm /F1 9.2 Tf 13.3 TL (La app acepta texto en espa\361ol y devuelve una categor\355a sugerida junto con informaci\363n auxiliar. Una prueba con \223El) Tj T* (bot\363n de guardar no funciona\224 mostr\363 que la etiqueta de mayor score puede no coincidir con la interpretaci\363n humana) Tj T* (m\341s intuitiva. Este caso es \372til para explicar por qu\351 no debe tratarse la salida como una decisi\363n definitiva.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 448.1008 cm
+q
+.478431 .290196 .243137 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Reproducibilidad) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 388.9008 cm
+q
+.160784 .156863 .176471 rg
+BT 1 0 0 1 0 44 Tm /F1 9.2 Tf 13.3 TL (Para reproducir la aplicaci\363n se necesitan Python, las dependencias listadas en requirements.txt y acceso a los) Tj T* -0.060703 Tw (recursos de inferencia requeridos por la configuraci\363n del Space. El notebook de evaluaci\363n registra los casos usados) Tj T* 0 Tw (y los resultados obtenidos; las m\351tricas pueden variar con cambios de versi\363n, hardware, cach\351 o condiciones de) Tj T* (ejecuci\363n.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.541176 0.305882 0.25098 rg
+BT
+/F2-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 57 352 Tm
+(Por qu\351 Hugging Face Spaces) Tj
+T*
+ET
+0.160784 0.152941 0.164706 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 57 336 Tm
+(Lo eleg\355 porque permite publicar una demo accesible desde el navegador\054 integrar Gradio) Tj
+T*
+ET
+BT
+1 0 0 1 57 323 Tm
+(directamente y facilitar la evaluaci\363n sin que cada persona tenga que instalar el proyecto\056) Tj
+T*
+ET
+0.541176 0.305882 0.25098 rg
+BT
+/F2-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 57 297 Tm
+(Repositorio acad\351mico en GitHub) Tj
+T*
+ET
+0.160784 0.152941 0.164706 rg
+BT
+/F1-0 7.6 Tf
+9.12 TL
+ET
+BT
+1 0 0 1 57 282 Tm
+(https\072\057\057github\056com\057lagabyok\057Gabriela\055Coronel\055seminario\055de\055actualizacion\0552026\057tree\057main\057TP\137Integrador) Tj
+T*
+ET
+BT
+/F1-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 57 266 Tm
+(Incluye el c\363digo y los materiales de evaluaci\363n e informe del TP Integrador\056) Tj
+T*
+ET
+Q
+
+
 endstream
 endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
 21 0 obj
-<</Filter[/ASCII85Decode/FlateDecode]/Length 1732>>stream
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1732
+>>
+stream
 Gatm;?$"aY&:F5U\48KA+9]HI:*5Xuh.GqdP?@3NAiqaRa`'h%"pd*WoZ-\9UaXr2)mt^nZ)eHU(;"pO1PZ7NH2(Zh!,kp-nsffC@C6<2Z4p=UE4.g<4(2\4ARu1Lbi9nln1hlu.erMNM2&BJ]I^)rP*3e0;8ggIQ52#$oDJ)]$^W6i"sqg'=?`!_8b`@Q`)V\aZR!`;49<'f"agA3mh07aj1OHWlJV;ohlNml)[W_*_Okcr4/IX2"r_lc*kZ1:]r9K%,Yp88;4N+<X'8[hUO<rt1JUB6r*f,>+-Vq-YTPK`]gk9KFa2%ga^ZaiS/"n#,*,,n<0^<Y!C!A_%2e7sSedA^'L>@G]KD7+(IUj=M367C"r@L3]EBUuR][1j+!C?*$q\D4!<^ZCU.fRqO\HT6nBWfXJk[pYC,/DRYTt@ehHQZY$*lu`SZp\PXT@VP7S.APo[[9VZ4i8^Y)Qbg%Be@4]n8ebhIq&6>1JEU*(fLE,A=3PG6as'?<NA9YS,N]D*tH(=\ih5e>S@P%`/bO.9/%D[i^ebldR%k9oEi@Xf@Xp7o0qc9<(l8.cJ2&.cOHgO8(:%>cqV'MiSkk8E(&,6d#dHJnRE2`bL-N*W@M&N$U.(F'hqU$\?I!:0Mu9nlh,5,\#RZ_?<n_Ah]m"UB8>!R30bY<knQSp+mh9klu^^)S&mP2>B9bT8n["'[Y!K0>uQd"PZPLegQ]8<da<@1/mZL<ioBc9tS?O"7:4_5]q`%IA%Bl]WfZUZ,-?55d69NDq*>t_!RXI=u=5>TmE:V9;\>WHHb:UqnYT;nQ54\7XNu/X6sP?"HGHNe^nY;l$AEH^`@!@\K:\"JB-TRoEM9d32&9sP[6'3Q<Ks@:2*rl0tjF]_q%8qcQ)dM:R8g-c@Th7;_fcKKmN_0$Bo0bK=tu,n"E$r)U-\Y<]&f?+Ib!M;3Y29856%YHeD'H.<h#l=]I)2I?MCf6/_MQ]G!@f+FK8pQrh=aS>"W1s"#opGk$i3mH"OnV&*0m%7RYG4[p'N&p0KX,W@Pp0N5`gV%&C/R>fXM7`HdW>OSF!`V(R4OEFmEHTMGN/G>!X7<oM7#j2^X7:.p:GeMUdZscmo+*Pt=Y8Hsh<c9CMp"9#H7hPtm3bQhF1T2@U<JuSSGH/Ze^Ce).UG9/(hPpP2N$A],:HO>!mB;rj7khY!M3,3Pp2g5?K="ejC+G<a;o4k.506MJK,*[+dAC\h;8@^"m_^]18^$IM>jhW,Vo(*;f5?AW(j[kQMn8P\`lm"g1`oQ0+KM2<+2U=46Z;FlZ+Vs'?>^K(KuGs4AALrQ\Ar_Fgl30]fD:-B%*(7K<n(`gFh9mQN.M'DWa&Dd8%?Fl<XZ9;,6iGDMJLn.o/bb=C4,m6\S.NZ\'G<oP&An2IOP?tI8)t',1YW56\Q>s`GKIBAF(JkNj)BL-XU`AGTT8D>,)BtXmruuqbK/H_VP!)#_=4>71[DW.]kBm=;`(^XN5,*-Wh9nPk:/?"cMCr!?C69=F1h+*^/fNo7<XTJ^B(ED\l=m?:^eL]D_-EX'W5,bE)r'lMeTJgR#UPK<TF358nP89HC3I3kU>6TpHJtbBOb=7I(b2V)EZNBW!Q=KFQNY7?#_K%!oaVdp;70&-$\.X<cMF,<t,9>>'!uk^*O&&IG9cDVrQ?A#C_?2kde&1!S+-CHAiq4W4c^ZkHX"MU@8k^G&*c`m(!+oTtU`IKuT7;TBsI_;QHi'i+`04tZ95~>
 endstream
 endobj
-23 0 obj
-<</BaseFont/Arial/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 24 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 277 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 556 333 556 556 500 556 556 277 556 556 222 222 500 222 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277 333 556 556 556 556 259 556 333 736 370 556 583 333 736 552 399 548 333 333 333 576 537 333 333 333 365 556 833 833 833 610 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 277 277 277 277 556 556 556 556 556 556 556 548 610 556 556 556 556 500 556 500]>>
-endobj
 24 0 obj
-<</Ascent 905/Descent -211/Flags 32/FontBBox[ -664 1039 2000 -324]/FontName/Arial/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/ExtGState <<
+/FXE1 26 0 R
+/FXE10 27 0 R
+/FXE11 30 0 R
+/FXE12 31 0 R
+/FXE13 34 0 R
+/FXE14 35 0 R
+/FXE15 36 0 R
+/FXE16 37 0 R
+/FXE17 38 0 R
+/FXE18 39 0 R
+/FXE19 40 0 R
+/FXE2 41 0 R
+/FXE20 42 0 R
+/FXE21 43 0 R
+/FXE22 44 0 R
+/FXE23 45 0 R
+/FXE24 46 0 R
+/FXE25 47 0 R
+/FXE26 48 0 R
+/FXE27 49 0 R
+/FXE28 50 0 R
+/FXE29 51 0 R
+/FXE3 52 0 R
+/FXE30 53 0 R
+/FXE31 54 0 R
+/FXE32 55 0 R
+/FXE33 56 0 R
+/FXE34 57 0 R
+/FXE35 58 0 R
+/FXE36 59 0 R
+/FXE37 60 0 R
+/FXE38 61 0 R
+/FXE39 62 0 R
+/FXE4 63 0 R
+/FXE40 64 0 R
+/FXE41 65 0 R
+/FXE42 66 0 R
+/FXE43 67 0 R
+/FXE44 68 0 R
+/FXE45 69 0 R
+/FXE46 70 0 R
+/FXE47 71 0 R
+/FXE48 72 0 R
+/FXE49 73 0 R
+/FXE5 74 0 R
+/FXE50 75 0 R
+/FXE51 76 0 R
+/FXE52 77 0 R
+/FXE53 78 0 R
+/FXE54 79 0 R
+/FXE55 80 0 R
+/FXE56 81 0 R
+/FXE57 82 0 R
+/FXE58 83 0 R
+/FXE59 84 0 R
+/FXE6 85 0 R
+/FXE60 86 0 R
+/FXE61 87 0 R
+/FXE62 88 0 R
+/FXE63 89 0 R
+/FXE7 90 0 R
+/FXE8 91 0 R
+/FXE9 92 0 R
+>>
+/Font <<
+/F1 93 0 R
+/FXF1 8 0 R
+/FXF2 9 0 R
+/FXF3 28 0 R
+/FXF4 32 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
 endobj
-41 0 obj
-<</BaseFont/Arial/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 42 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 277 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 556 333 556 556 500 556 556 277 556 556 222 222 500 222 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277 333 556 556 556 556 259 556 333 736 370 556 583 333 736 552 399 548 333 333 333 576 537 333 333 333 365 556 833 833 833 610 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 277 277 277 277 556 556 556 556 556 556 556 548 610 556 556 556 556 500 556 500]>>
-endobj
-42 0 obj
-<</Ascent 905/Descent -211/Flags 32/FontBBox[ -664 1039 2000 -324]/FontName/Arial/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-110 0 obj
-<</ExtGState<</FXE1 112 0 R /FXE10 121 0 R /FXE11 122 0 R /FXE12 123 0 R /FXE13 124 0 R /FXE14 125 0 R /FXE15 126 0 R /FXE16 127 0 R /FXE17 128 0 R /FXE18 129 0 R /FXE19 130 0 R /FXE2 113 0 R /FXE20 131 0 R /FXE21 132 0 R /FXE22 133 0 R /FXE23 134 0 R /FXE24 135 0 R /FXE25 136 0 R /FXE26 137 0 R /FXE27 138 0 R /FXE28 139 0 R /FXE29 140 0 R /FXE3 114 0 R /FXE30 141 0 R /FXE31 142 0 R /FXE32 143 0 R /FXE33 144 0 R /FXE34 145 0 R /FXE35 146 0 R /FXE36 147 0 R /FXE37 148 0 R /FXE38 149 0 R /FXE39 150 0 R /FXE4 115 0 R /FXE40 151 0 R /FXE41 152 0 R /FXE42 153 0 R /FXE43 154 0 R /FXE44 155 0 R /FXE45 156 0 R /FXE46 157 0 R /FXE47 158 0 R /FXE48 159 0 R /FXE49 160 0 R /FXE5 116 0 R /FXE50 161 0 R /FXE51 162 0 R /FXE52 163 0 R /FXE53 164 0 R /FXE54 165 0 R /FXE55 166 0 R /FXE56 167 0 R /FXE57 168 0 R /FXE58 169 0 R /FXE59 170 0 R /FXE6 117 0 R /FXE60 171 0 R /FXE61 172 0 R /FXE62 173 0 R /FXE63 174 0 R /FXE7 118 0 R /FXE8 119 0 R /FXE9 120 0 R >>/Font<</FXF1 2 0 R /FXF2 3 0 R /FXF3 23 0 R /FXF4 41 0 R >>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>
-endobj
-111 0 obj
-<</Filter/FlateDecode/Length 2514>>stream
-xúµZœì€∂ΩÎØ¿1ôŸ0$Aä‰¯d◊q∫◊„v∑ôNõ ´≈Ü$hê‹Tû˛≥>˙êìoô˙>Rî≈Öl	5ûh(â+<|øﬁ˚>‚›¬˜“ƒè”î·b&QL> ÿ_\Ã«øÒ5ØQÍi∆xÍÖÀ$a’"éœOì›'Â‚fÒó≈ª≈˜Ø˛˛C¿÷-~ûˇ·WyòEAHÒ2]rf÷ÏÎãø∏›≠ø]8åΩ8Rv[üﬂæ§≥¿KNWø“∫ØÜÓÿ‚üﬂºË◊∑FâµdœØŸÿç¨T-å“¨¿'y◊ãRΩπ˙T≥–óﬂ˛ÎˆOãnw¯√‚èÉπÎﬁ~X1KûB„#4?K}û1∫àËW}/íeî ⁄lq¯(‰Kñ$æó¯¡◊YêlWÂ±üt.V}IF{ä!1K?I#Zz¥
-.B0öÁãﬂ>1œ“„A≤0‰^òÑ_G»YÊÖìÅ¥a≤’W¨RÏ)¿¯Ç ?Ü€wÄzı ;ı®Y≠îâ;e*aÿª^≤RXêóÑLP˝3ã¶T9≤B◊,/E´Óéu∫–-+Òø4FÏ$◊∆»ºï¨;yıt#…7qN≈≈}'¨U5Âz•€Œ¿ËOA¶óå`?Ù¢s§Øü¬ .	kõ˙Añx(_ß√jåÓtßÕÓ˙öÇAîñ˝ˇí∆#î±–)•R”ÀB∞VÆ{eª9.ôU~‚•®πŒ0+˘†ç®ëFíU≤Pi√*—≤∆Ùr%Zî0Ÿ‰ZÀ6Ã»G’Rﬁ˜ï®ÖgÔ)ºdÇ%±¶¸¥=E˚	f¡‚Ga$&®à¯81}^¯∫æìF".ÖgA8ŒKÛ¬é*ÖßAˆ˜˛∑v–}Õ*]»R≥ç`®ÖÄ%
-Õa”´N÷“‡'ƒbT–7¢t¯”Ò/>Ø{˘x`3«9Ï†=C»1{˛y‹Ac‰n6ñ„‰43lÃΩ LN√23ÏLﬁo@7∞÷J\"q÷Öí©—PíåÙÛå…ÔıÑ§¡R¨ÔI;"Ä…'¶¥Lpú•Z7àºÃeGÖl·Ì®m£Á†CñYÏ-]¸,˛]{ØªÅ”GRÔP`l@«ŸgÊÂeË•†Ωì Õº¸áI[˙[÷$á®î√ÀπÆ(}j÷…wö§nËæÌPsQd]í{≈Cﬂv wD¿òáñå?ŒRMúÜwŸ°D1ê…é¬±Q§˘ôˇÜ}⁄æèÛ“A`KT,ﬂøy}Õ~˛ÊçËz-ÍuO-—TCÂœﬂ⁄–é”Àú#/§(8⁄,
-nÖëÇj°⁄UÙ1aÒJ∫Ö®}∆DπÓk¬Ë‡ñ—éàÚ5Fns›¥“⁄≈yl¥å≤„m“˛.ÜZø⁄±ÿ£6U™C‰ﬁ´ÊS'[Òﬂj⁄W|ég€ˆn∂CÕ}/r	ã∑™ë•™•¿çt≤Ω/O0s˛ÛÈÚ|( Å[§|{ßM%M;î#Øá6	Ê$€N7n9Ûäæ⁄ãõÕ¿–˙HΩ\∂¢R∏Ò@⁄πÒÿŒæA‡.ˆ˝cøFÛæfØD.ŸMÉ◊ævc† éΩ MO√23ıç4è
-2~‘%¢‘à‘íhEÕûŸ5I§Ù—‹DµS8æØD~Ø»Rò˚≤˜rï≈Y‡•.v˝æW‹ÍF\)~êÚIÀœL˘B¡f∫ìËäﬂn∫{R"c˛◊0 ı
-äƒ‹ëøŸØr5æyßE;ﬁ:ï±Õ‘[à~k≈IË¶§üøΩfﬂCPÆP∆U˙@ p7¶
-¢ÿã–üff€Î—tÔáÙo§©@µë®à„˜í]◊∂STC'HÉ^_0ƒ„«vR◊e)*T
-k?nÙ∂3núπIY¢µ’áôdı<väyv\}Ó{¯Vˇ"á≤âJ+€Œulò8˜p‘I8Êäœc√yÂÃΩ¢Gì‘Uh†N0#˙gÄºíZ≈DÓD∞œçÑ∆ﬂ–<m™^≠Õa¸º∆)}7]˝<œ°™Úç¿±[¬¢'->≥Ë[hLm&ZK*ﬂVÏi<◊nÂ‘Á^ÇOEŸì∫≤ëü◊!—èÎÂ}”Ω@,‹W¬¸b#pcí¿œº%Ó;	¡<"u˝–C#å÷∆0Dä$
-5 6w¢§B#∆bæöÍ~°∂FoÒG%Ì£∫±”d‘Màì÷øÅﬂÌlà‹»$Ö à“”üŸÛ'ãa≤—¿™˝®◊`Õ¢œçDÙ^óÊ±7(€Ôz≤î¨ñ$ÿÃ∂ùä;©>Ω+EcìQ[™©>{sÁµQ:◊ÜÏ’—·IíΩºó§âd~t⁄ÚOìùÍ7HP5¥ê„òPò+Xßìkm®B “¿¨Dó∞˚PqÌÄåŒcü(‚n]∆KŸî⁄.èëÈd>˙ÀË¥’ÁF)b*ëVì∞ß˝0 “$
-d≤d
-¢%rjuMcõI‹	≥R„MaogK76±¥†∆lIxœøÙ@.Úóß‘Ã ÿ3/˜˙†~ú@^?gk3U…Bv^∑√”‘≠√∏ë”–çfs˜“ò±ˇ≠qdr—ËÕ4&5kQocw“‘⁄:Ô©L˚›Òm¨mûGZ<â‹‘ˇÄó∫Q¬à“üÀÜ&T›«Y	2eØ—íVM)w¿©K›ÚóÙò¢îª¶∑‹klË€qÙˇ˘KkßÁµY|∏iq∞X_v§lé3BrrwÉË£^ü|Ù8íÊÄ%À?j≠kµ€±z;˚qI|^7≈#«Ÿ5ºø˙§QçîÒ^åæm¥â©Y(›ò,åπí]]Q¢£Zôa∞ÚHù)Aπ$z´!ÙàBÓp-≥¬§t¨¢ág=ô“ÉãDZ^ˆÑÀpáq∫ÊÄ}{Õéë≤Í%çJà:Ó ˛A?_nÁ¿ï˝HÂj‡5ı∏4ÿ#cÑ55Eø_∞ıyC¡e<˘¬VøÛqO¬aƒ√Åº’ºC°ö4«ÿ≥©OHCπVfüT«ü_—Õöu¢Z©è4ß}îÂ'V˛F=ﬂ¿	˘êπà<∫c˝_y(!ŒÎ‚¬$ˆ"Sº7≤µaõÌÅRr…3A¬Ω‡4º˚œí_¢Á$ùº«,LØÙóñƒó<ê¡4‹v˛˘ëO=
-+Á%œd4ÛR:5Ê
-I€R7ª”.õ¡∞€ÁËˇ«âçB:ÄÜ*—Ür¬uÃ©˛P¸./yhc6 <ü9÷∂ˆñ BW[Ë.yV#£3[~Íén‡BΩíÉ”'Y;8Z∏/y#‰Åó·ùqOc–9!çô6ûD0D]”êË ﬁ∆qFu8VÇ| Œ1ø¶"v' @™†…V7õU˝Èkºê
+25 0 obj
+<<
+/Length 12112
+>>
+stream
+q
+q
+0.870588 0.862745 0.847059 RG
+1 0 0 1 0 0 cm
+48.189 38.2677 m
+547.087 38.2677 l
+S
+Q
+q
+/FXE1 gs
+0.333333 0.329412 0.356863 rg 0.870588 0.862745 0.847059 RG
+BT
+1 0 0 1 48.189 25.5118 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 8 Tf 
+[(BugTriage AI | Seminario de ActualizaciÛn 2026)]TJ
+ET
+Q
+q
+/FXE2 gs
+0.333333 0.329412 0.356863 rg 0.870588 0.862745 0.847059 RG
+BT
+1 0 0 1 515.511 25.5118 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 8 Tf 
+[(P·gina 7)]TJ
+ET
+Q
+q
+/FXE3 gs
+0.098039 0.094118 0.117647 rg
+BT
+1 0 0 1 57.0236 770.701 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 17 Tf 
+[(F. Vocabulario)]TJ
+ET
+Q
+q
+/FXE4 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 56.3152 223.272 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(Por eso, mi )]TJ
+ET
+Q
+q
+/FXE5 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 105.351 223.272 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(objetivo no es afirmar que la )]TJ
+ET
+Q
+q
+/FXE6 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 223.01 223.272 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(aplicacion clasifica todos los errores correctamente,)]TJ
+ET
+Q
+q
+/FXE7 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 433.267 223.272 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[( sino demostrar )]TJ
+ET
+Q
+q
+/FXE8 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 502.451 223.272 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(un)]TJ
+ET
+Q
+q
+/FXE9 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 57.0236 197.294 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(prototipo funcional )]TJ
+ET
+Q
+q
+/FXE10 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 134.092 197.294 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(que pueda seguir )]TJ
+ET
+Q
+q
+/FXE11 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 207.839 197.294 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(mejorandose mediante mas pruebas, metricas y revision humana. )]TJ
+ET
+Q
+q
+/FXE12 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 475.283 197.294 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF4 9.2 Tf 
+[( )]TJ
+ET
+Q
+q
+/FXE13 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 747.501 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Inferencia.)]TJ
+ET
+Q
+q
+/FXE14 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 103.042 747.501 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Uso de un modelo ya entrenado para obtener una salida a partir de una entrada nueva.)]TJ
+ET
+Q
+q
+/FXE15 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 728.201 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Modelo preentrenado.)]TJ
+ET
+Q
+q
+/FXE16 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 153.127 728.201 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Modelo cuyos par·metros se aprendieron previamente; el proyecto lo utiliza sin entrenarlo)]TJ
+ET
+Q
+q
+/FXE17 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 714.901 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(desde cero.)]TJ
+ET
+Q
+q
+/FXE18 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 695.601 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Zero-shot classification.)]TJ
+ET
+Q
+q
+/FXE19 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 162.851 695.601 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( ClasificaciÛn en la que se comparan textos con etiquetas candidatas sin ajustar el modelo)]TJ
+ET
+Q
+q
+/FXE20 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 682.301 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(con un dataset propio especÌfico.)]TJ
+ET
+Q
+q
+/FXE21 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 663.001 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(NLI \(Natural Language Inference\).)]TJ
+ET
+Q
+q
+/FXE22 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 204.251 663.001 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Tarea de inferencia entre enunciados; algunos modelos NLI pueden reutilizarse)]TJ
+ET
+Q
+q
+/FXE23 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 649.701 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(para comparar una premisa con hipÛtesis asociadas a etiquetas.)]TJ
+ET
+Q
+q
+/FXE24 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 630.401 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Pipeline.)]TJ
+ET
+Q
+q
+/FXE25 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 94.8632 630.401 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( AbstracciÛn de Transformers que re˙ne la preparaciÛn de entrada, la inferencia y el postprocesamiento.)]TJ
+ET
+Q
+q
+/FXE26 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 611.101 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Hugging Face Spaces.)]TJ
+ET
+Q
+q
+/FXE27 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 155.188 611.101 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Servicio para alojar y publicar demostraciones de aplicaciones de machine learning.)]TJ
+ET
+Q
+q
+/FXE28 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 591.801 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Gradio.)]TJ
+ET
+Q
+q
+/FXE29 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 89.2328 591.801 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Biblioteca Python para construir interfaces web interactivas para modelos y funciones.)]TJ
+ET
+Q
+q
+/FXE30 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 572.501 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(API / cliente remoto.)]TJ
+ET
+Q
+q
+/FXE31 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 145.472 572.501 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Interfaz que permite solicitar inferencia a un servicio externo a travÈs de una llamada)]TJ
+ET
+Q
+q
+/FXE32 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 559.201 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(program·tica.)]TJ
+ET
+Q
+q
+/FXE33 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 539.901 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Token de acceso.)]TJ
+ET
+Q
+q
+/FXE34 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 133.724 539.901 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Credencial que permite autenticar una peticiÛn; debe guardarse como secreto y no publicarse.)]TJ
+ET
+Q
+q
+/FXE35 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 520.601 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Accuracy.)]TJ
+ET
+Q
+q
+/FXE36 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 101 520.601 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( ProporciÛn de predicciones correctas entre todos los casos evaluados.)]TJ
+ET
+Q
+q
+/FXE37 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 501.301 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Benchmark.)]TJ
+ET
+Q
+q
+/FXE38 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 109.684 501.301 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Conjunto de pruebas y procedimiento para comparar alternativas bajo condiciones similares.)]TJ
+ET
+Q
+q
+/FXE39 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 482.001 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Score.)]TJ
+ET
+Q
+q
+/FXE40 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 85.148 482.001 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Valor de puntuaciÛn producido por el modelo. No equivale necesariamente a una probabilidad calibrada.)]TJ
+ET
+Q
+q
+/FXE41 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 462.701 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Triage.)]TJ
+ET
+Q
+q
+/FXE42 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 87.1904 462.701 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( Proceso inicial de revisar, categorizar y derivar incidencias.)]TJ
+ET
+Q
+q
+/FXE43 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 443.401 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 9.2 Tf 
+[(Deploy.)]TJ
+ET
+Q
+q
+/FXE44 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 90.254 443.401 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( PublicaciÛn de una aplicaciÛn en un entorno donde otras personas pueden acceder a ella.)]TJ
+ET
+Q
+q
+/FXE45 gs
+0.478431 0.290196 0.243137 rg
+BT
+1 0 0 1 57.0236 406.301 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 11 Tf 
+[(DeclaraciÛn de uso de IA generativa)]TJ
+ET
+Q
+q
+/FXE46 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 388.101 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(Se utilizaron herramientas de IA generativa como apoyo para organizar y revisar la documentaciÛn del proyecto y)]TJ
+ET
+Q
+q
+/FXE47 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 374.801 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(para repasar conceptos tÈcnicos. La implementaciÛn, las pruebas, la selecciÛn de los modelos y la revisiÛn de los )]TJ
+ET
+Q
+q
+/FXE48 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 361.501 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(resultados )]TJ
+ET
+Q
+q
+/FXE49 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 101.423 361.501 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(se contrastaron con el cÛdigo y las salidas del proyecto. )]TJ
+ET
+Q
+q
+/FXE50 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 348.201 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(La herramienta no reemplaza la responsabilidad)]TJ
+ET
+Q
+q
+/FXE51 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 253.223 348.201 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[( sobre la veracidad, comprensiÛn y defensa del trabajo.)]TJ
+ET
+Q
+q
+/FXE52 gs
+0.478431 0.290196 0.243137 rg
+BT
+1 0 0 1 57.0236 320.217 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF2 11 Tf 
+[(ConclusiÛn)]TJ
+ET
+Q
+q
+/FXE53 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 302.017 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(BugTriage AI demuestra un flujo de inferencia con un modelo preentrenado, una interfaz web y un despliegue p˙blico.)]TJ
+ET
+Q
+q
+/FXE54 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 288.717 Tm 0 0 TD 0 Tr
+0 Tc -0.027353 Tw
+/FXF1 9.2 Tf 
+[(La comparaciÛn inicial permitiÛ elegir un modelo para el prototipo, pero tambiÈn revelÛ lÌmites de calidad, ambig¸edad)]TJ
+ET
+Q
+q
+/FXE55 gs
+0.160784 0.156863 0.176471 rg
+BT
+1 0 0 1 57.0236 275.417 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF1 9.2 Tf 
+[(y dependencia de servicios. )]TJ
+ET
+Q
+q
+/FXE56 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 173.1 275.417 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(Durante las pruebas observ que la )]TJ
+ET
+Q
+q
+/FXE57 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 315.13 275.417 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(clasificacin puede )]TJ
+ET
+Q
+q
+/FXE58 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 389.889 275.417 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(presentar errores y que algunos)]TJ
+ET
+Q
+q
+/FXE59 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 57.0236 262.227 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(reportes son ambiguos. )]TJ
+ET
+Q
+q
+/FXE60 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 57.0236 249.038 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(Tambien )]TJ
+ET
+Q
+q
+/FXE61 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 95.3508 249.038 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(comprobe que utilizar un servicio )]TJ
+ET
+Q
+q
+/FXE62 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 231.962 249.038 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(externo de inferencia puede tener restricciones, )]TJ
+ET
+Q
+q
+/FXE63 gs
+0.160784 0.156863 0.176471 rg 0.160784 0.156863 0.176471 RG
+BT
+1 0 0 1 428.731 249.038 Tm 0 0 TD 0 Tr
+0 Tc 0 Tw
+/FXF3 9.2 Tf 
+[(como la falta de creditos.)]TJ
+ET
+Q
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+55 196 490 119 re
+f*
+0.160784 0.152941 0.164706 rg
+BT
+/F1 8.6 Tf
+10.32 TL
+ET
+BT
+1 0 0 1 57 300 Tm
+(BugTriage AI demuestra un flujo de inferencia con un modelo preentrenado\054 una interfaz web) Tj
+T*
+ET
+BT
+1 0 0 1 57 288 Tm
+(y un despliegue p\372blico\056 La comparaci\363n inicial permiti\363 elegir un modelo para el prototipo\054) Tj
+T*
+ET
+BT
+1 0 0 1 57 276 Tm
+(pero tambi\351n revel\363 l\355mites de calidad\054 ambig\374edad y dependencia de servicios\056) Tj
+T*
+ET
+BT
+1 0 0 1 57 264 Tm
+(Durante las pruebas observ\351 que la clasificaci\363n puede presentar errores y que algunos) Tj
+T*
+ET
+BT
+1 0 0 1 57 252 Tm
+(reportes son ambiguos\056 Tambi\351n comprob\351 que un servicio externo de inferencia puede tener) Tj
+T*
+ET
+BT
+1 0 0 1 57 240 Tm
+(restricciones\054 como la falta de cr\351ditos\056) Tj
+T*
+ET
+BT
+1 0 0 1 57 216 Tm
+(El objetivo no es afirmar que la aplicaci\363n clasifica todos los errores correctamente\054 sino) Tj
+T*
+ET
+BT
+1 0 0 1 57 204 Tm
+(demostrar un prototipo funcional que pueda mejorar con m\341s pruebas\054 m\351tricas y revisi\363n humana\056) Tj
+T*
+ET
+Q
+
+
 endstream
 endobj
-112 0 obj
-<</Font[ 2 0 R  8]/Type/ExtGState>>
+26 0 obj
+<<
+/Font [ 8 0 R 8 ]
+/Type /ExtGState
+>>
 endobj
-113 0 obj
-<</Font[ 2 0 R  8]/Type/ExtGState>>
+27 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-114 0 obj
-<</Font[ 3 0 R  17]/Type/ExtGState>>
+28 0 obj
+<<
+/BaseFont /Arial
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/FontDescriptor 29 0 R
+/LastChar 255
+/Subtype /TrueType
+/Type /Font
+/Widths [ 277 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 556 333 556 556 500 556 556 277 556 556 222 222 500 222 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277 333 556 556 556 556 259 556 333 736 370 556 583 333 736 552 399 548 333 333 333 576 537 333 333 333 365 556 833 833 833 610 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 277 277 277 277 556 556 556 556 556 556 556 548 610 556 556 556 556 500 556 500 ]
+>>
 endobj
-115 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+29 0 obj
+<<
+/Ascent 905
+/Descent -211
+/Flags 32
+/FontBBox [ -664 1039 2000 -324 ]
+/FontName /Arial
+/ItalicAngle 0
+/StemV 0
+/Type /FontDescriptor
+>>
 endobj
-116 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+30 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-117 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+31 0 obj
+<<
+/Font [ 32 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-118 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+32 0 obj
+<<
+/BaseFont /Arial
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/FontDescriptor 33 0 R
+/LastChar 255
+/Subtype /TrueType
+/Type /Font
+/Widths [ 277 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 556 333 556 556 500 556 556 277 556 556 222 222 500 222 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277 333 556 556 556 556 259 556 333 736 370 556 583 333 736 552 399 548 333 333 333 576 537 333 333 333 365 556 833 833 833 610 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 277 277 277 277 556 556 556 556 556 556 556 548 610 556 556 556 556 500 556 500 ]
+>>
 endobj
-119 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+33 0 obj
+<<
+/Ascent 905
+/Descent -211
+/Flags 32
+/FontBBox [ -664 1039 2000 -324 ]
+/FontName /Arial
+/ItalicAngle 0
+/StemV 0
+/Type /FontDescriptor
+>>
 endobj
-120 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+34 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-121 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+35 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-122 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+36 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-123 0 obj
-<</Font[ 41 0 R  9.2]/Type/ExtGState>>
+37 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-124 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+38 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-125 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+39 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-126 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+40 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-127 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+41 0 obj
+<<
+/Font [ 8 0 R 8 ]
+/Type /ExtGState
+>>
 endobj
-128 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+42 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-129 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+43 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-130 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+44 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-131 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+45 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-132 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+46 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-133 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+47 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-134 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+48 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-135 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+49 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-136 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+50 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-137 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+51 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-138 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+52 0 obj
+<<
+/Font [ 9 0 R 17 ]
+/Type /ExtGState
+>>
 endobj
-139 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+53 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-140 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+54 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-141 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+55 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-142 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+56 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-143 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+57 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-144 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+58 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-145 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+59 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-146 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+60 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-147 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+61 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-148 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+62 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-149 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+63 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-150 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+64 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-151 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+65 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-152 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+66 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-153 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+67 0 obj
+<<
+/Font [ 9 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-154 0 obj
-<</Font[ 3 0 R  9.2]/Type/ExtGState>>
+68 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-155 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+69 0 obj
+<<
+/Font [ 9 0 R 11 ]
+/Type /ExtGState
+>>
 endobj
-156 0 obj
-<</Font[ 3 0 R  11]/Type/ExtGState>>
+70 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-157 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+71 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-158 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+72 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-159 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+73 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-160 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+74 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-161 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+75 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-162 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+76 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-163 0 obj
-<</Font[ 3 0 R  11]/Type/ExtGState>>
+77 0 obj
+<<
+/Font [ 9 0 R 11 ]
+/Type /ExtGState
+>>
 endobj
-164 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+78 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-165 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+79 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-166 0 obj
-<</Font[ 2 0 R  9.2]/Type/ExtGState>>
+80 0 obj
+<<
+/Font [ 8 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-167 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+81 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-168 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+82 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-169 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+83 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-170 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+84 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-171 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+85 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-172 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+86 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-173 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+87 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
 endobj
-174 0 obj
-<</Font[ 23 0 R  9.2]/Type/ExtGState>>
+88 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
+endobj
+89 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
+endobj
+90 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
+endobj
+91 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
+endobj
+92 0 obj
+<<
+/Font [ 28 0 R 9.2 ]
+/Type /ExtGState
+>>
+endobj
+93 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 22
-0000000000 65535 f
-0000000017 00000 n
-0000000060 00000 n
-0000000159 00000 n
-0000000263 00000 n
-0000000445 00000 n
-0000000641 00000 n
-0000000821 00000 n
-0000001001 00000 n
-0000001181 00000 n
-0000001363 00000 n
-0000001560 00000 n
-0000001741 00000 n
-0000001876 00000 n
-0000001944 00000 n
-0000002232 00000 n
-0000002334 00000 n
-0000003611 00000 n
-0000005301 00000 n
-0000007381 00000 n
-0000009537 00000 n
-0000011432 00000 n
-23 2
-0000013254 00000 n
-0000014301 00000 n
-41 2
-0000014446 00000 n
-0000015493 00000 n
-110 65
-0000015638 00000 n
-0000016712 00000 n
-0000019301 00000 n
-0000019357 00000 n
-0000019413 00000 n
-0000019470 00000 n
-0000019529 00000 n
-0000019588 00000 n
-0000019647 00000 n
-0000019706 00000 n
-0000019765 00000 n
-0000019824 00000 n
-0000019883 00000 n
-0000019942 00000 n
-0000020001 00000 n
-0000020059 00000 n
-0000020117 00000 n
-0000020175 00000 n
-0000020233 00000 n
-0000020291 00000 n
-0000020349 00000 n
-0000020407 00000 n
-0000020465 00000 n
-0000020523 00000 n
-0000020581 00000 n
-0000020639 00000 n
-0000020697 00000 n
-0000020755 00000 n
-0000020813 00000 n
-0000020871 00000 n
-0000020929 00000 n
-0000020987 00000 n
-0000021045 00000 n
-0000021103 00000 n
-0000021161 00000 n
-0000021219 00000 n
-0000021277 00000 n
-0000021335 00000 n
-0000021393 00000 n
-0000021451 00000 n
-0000021509 00000 n
-0000021567 00000 n
-0000021625 00000 n
-0000021683 00000 n
-0000021741 00000 n
-0000021799 00000 n
-0000021857 00000 n
-0000021914 00000 n
-0000021972 00000 n
-0000022030 00000 n
-0000022088 00000 n
-0000022146 00000 n
-0000022204 00000 n
-0000022262 00000 n
-0000022319 00000 n
-0000022377 00000 n
-0000022435 00000 n
-0000022493 00000 n
-0000022552 00000 n
-0000022611 00000 n
-0000022670 00000 n
-0000022729 00000 n
-0000022788 00000 n
-0000022847 00000 n
-0000022906 00000 n
+0 94
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000155 00000 n 
+0000000204 00000 n 
+0000000418 00000 n 
+0000000641 00000 n 
+0000001920 00000 n 
+0000001961 00000 n 
+0000002068 00000 n 
+0000002180 00000 n 
+0000002378 00000 n 
+0000004071 00000 n 
+0000004269 00000 n 
+0000006352 00000 n 
+0000006550 00000 n 
+0000008709 00000 n 
+0000008979 00000 n 
+0000009203 00000 n 
+0000009480 00000 n 
+0000014364 00000 n 
+0000014472 00000 n 
+0000014585 00000 n 
+0000014783 00000 n 
+0000016608 00000 n 
+0000017769 00000 n 
+0000029935 00000 n 
+0000029992 00000 n 
+0000030052 00000 n 
+0000031110 00000 n 
+0000031265 00000 n 
+0000031325 00000 n 
+0000031385 00000 n 
+0000032443 00000 n 
+0000032598 00000 n 
+0000032657 00000 n 
+0000032716 00000 n 
+0000032775 00000 n 
+0000032834 00000 n 
+0000032893 00000 n 
+0000032952 00000 n 
+0000033011 00000 n 
+0000033068 00000 n 
+0000033127 00000 n 
+0000033186 00000 n 
+0000033245 00000 n 
+0000033304 00000 n 
+0000033363 00000 n 
+0000033422 00000 n 
+0000033481 00000 n 
+0000033540 00000 n 
+0000033599 00000 n 
+0000033658 00000 n 
+0000033716 00000 n 
+0000033775 00000 n 
+0000033834 00000 n 
+0000033893 00000 n 
+0000033952 00000 n 
+0000034011 00000 n 
+0000034070 00000 n 
+0000034129 00000 n 
+0000034188 00000 n 
+0000034247 00000 n 
+0000034306 00000 n 
+0000034366 00000 n 
+0000034425 00000 n 
+0000034484 00000 n 
+0000034543 00000 n 
+0000034602 00000 n 
+0000034661 00000 n 
+0000034719 00000 n 
+0000034778 00000 n 
+0000034837 00000 n 
+0000034896 00000 n 
+0000034955 00000 n 
+0000035015 00000 n 
+0000035074 00000 n 
+0000035133 00000 n 
+0000035191 00000 n 
+0000035250 00000 n 
+0000035309 00000 n 
+0000035368 00000 n 
+0000035428 00000 n 
+0000035488 00000 n 
+0000035548 00000 n 
+0000035608 00000 n 
+0000035668 00000 n 
+0000035728 00000 n 
+0000035788 00000 n 
+0000035848 00000 n 
+0000035908 00000 n 
+0000035968 00000 n 
+0000036028 00000 n 
+0000036088 00000 n 
 trailer
-<</Info 14 0 R /Root 13 0 R /Size 175/ID[<203DAFBE210E841378C5508BE3DEDE61><377665B6FC24DCE3DB02F9D09D6F5659>]>>
+<<
+/Size 94
+/Root 3 0 R
+/Info 1 0 R
+>>
 startxref
-22965
+36196
 %%EOF
