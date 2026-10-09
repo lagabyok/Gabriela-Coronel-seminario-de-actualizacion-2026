@@ -1,13 +1,13 @@
 id,frase,esperado,prediccion,score,correcto,tiempo_segundos
-1,El botón de guardar no funciona.,Funcional,UI/UX,0.26611194014549255,False,1.0016396999999415
-2,La pantalla de login se rompe cuando ingreso mi contraseña.,Autenticación,Autenticación,0.30751025676727295,True,0.8965050999977393
-3,Los nombres de los usuarios aparecen duplicados.,Datos,Datos,0.3255603015422821,True,0.8791227000001527
-4,El botón de continuar queda cortado en la versión móvil.,UI/UX,Accesibilidad,0.28150486946105957,False,0.9296358999999939
-5,El lector de pantalla no anuncia el campo de correo electrónico.,Accesibilidad,Accesibilidad,0.28119075298309326,True,0.9570544000016525
-6,No anda.,Funcional,Datos,0.40965166687965393,False,0.8380816000026243
-7,Después del último deploy rompieron el flow de login.,Autenticación,UI/UX,0.36050453782081604,False,0.8699871999997413
-8,The submit button is broken on mobile.,UI/UX,UI/UX,0.6223186254501343,True,0.8182393999995838
-9,El login tira error después del deploy.,Autenticación,Autenticación,0.29683253169059753,True,0.8665799000009429
-10,Desde el celular no puedo terminar el registro.,UI/UX,Datos,0.3340456187725067,False,0.8611062000018137
-11,"Che, cada vez que guardo se me borra todo.",Datos,Autenticación,0.37422341108322144,False,0.8908077999985835
-12,"El login anda perfecto, pero el lector no me lee el botón.",Accesibilidad,Accesibilidad,0.37473320960998535,True,0.9815048999989813
+1,El botón de guardar no funciona.,Funcional,UI/UX,0.26611194014549255,False,1.1351370999909705
+2,La pantalla de login se rompe cuando ingreso mi contraseña.,Autenticación,Autenticación,0.30751025676727295,True,0.9517628000030527
+3,Los nombres de los usuarios aparecen duplicados.,Datos,Datos,0.3255603015422821,True,1.0310476000013296
+4,El botón de continuar queda cortado en la versión móvil.,UI/UX,Accesibilidad,0.28150486946105957,False,1.1240936999965925
+5,El lector de pantalla no anuncia el campo de correo electrónico.,Accesibilidad,Accesibilidad,0.28119075298309326,True,0.9345807999925455
+6,No anda.,Funcional,Datos,0.40965166687965393,False,0.975457099993946
+7,Después del último deploy rompieron el flow de login.,Autenticación,UI/UX,0.36050453782081604,False,0.8512768000073265
+8,The submit button is broken on mobile.,UI/UX,UI/UX,0.6223186254501343,True,0.9352091000037035
+9,El login tira error después del deploy.,Autenticación,Autenticación,0.29683253169059753,True,1.1378815000061877
+10,Desde el celular no puedo terminar el registro.,UI/UX,Datos,0.3340456187725067,False,0.9174437000037869
+11,"Che, cada vez que guardo se me borra todo.",Datos,Autenticación,0.37422341108322144,False,1.121406999998726
+12,"El login anda perfecto, pero el lector no me lee el botón.",Accesibilidad,Accesibilidad,0.37473320960998535,True,1.0335916000040015

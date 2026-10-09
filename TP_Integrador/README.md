@@ -1,62 +1,62 @@
+---
+title: BugTriage AI
+emoji: 🐞
+colorFrom: green
+colorTo: purple
+sdk: gradio
+sdk_version: "5.49.1"
+app_file: app.py
+pinned: false
+---
+
 # BugTriage AI
 
 ## AI-assisted QA Bug Triage
 
-Aplicación de inteligencia artificial para la clasificación automática de reportes de bugs de software mediante un modelo de IA preentrenado.
+Aplicación de inteligencia artificial para asistir en la clasificación inicial de reportes de bugs de software.
 
-> Trabajo Práctico Integrador — Seminario de Actualización  
-> Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial — IFTS N.º 18
+BugTriage AI utiliza un modelo de **zero-shot classification** preentrenado para sugerir una categoría a partir de un reporte escrito en lenguaje natural.
 
----
+### Categorías
 
-## Estado del proyecto
+- Funcional
+- UI/UX
+- Autenticación
+- Datos
+- Accesibilidad
 
-🚧 En desarrollo
-
-Actualmente se encuentra en la etapa de definición de la solución y evaluación de modelos candidatos.
-
----
-
-## Problema
-
-Los equipos de QA y desarrollo reciben reportes de incidentes que deben ser analizados y clasificados antes de ser derivados o priorizados.
-
-BugTriage AI busca automatizar la primera etapa de clasificación mediante inferencia con un modelo de IA preentrenado.
-
----
-
-## Tecnologías
+### Tecnologías
 
 - Python
-- Hugging Face
-- Hugging Face Inference API
+- Hugging Face Transformers
+- BART Large MNLI
 - Gradio
-- Git / GitHub
+- Hugging Face Spaces
+- ZeroGPU
 
----
+### Modelo
 
-## Arquitectura
+Se utiliza `facebook/bart-large-mnli`, evaluado previamente frente a un segundo modelo mediante un benchmark de 12 casos de prueba.
 
-La arquitectura definitiva será documentada luego de la evaluación de los modelos candidatos.
+El modelo seleccionado obtuvo el mejor equilibrio entre precisión y tiempo de inferencia dentro del conjunto evaluado.
 
----
+### Uso
 
-## Modelo
+Ingresá un reporte de bug y presioná **Analizar bug**.
 
-Pendiente de evaluación.
+La aplicación devuelve:
 
-Se compararán al menos dos modelos de clasificación zero-shot utilizando el mismo conjunto de casos de prueba.
+- categoría sugerida;
+- nivel de confianza orientativo;
+- score;
+- categorías alternativas.
 
----
+La clasificación es una asistencia para el primer triage y **no reemplaza la revisión humana**.
 
-## Deploy
+### Proyecto académico
 
-Pendiente.
+Trabajo Práctico Integrador — Seminario de Actualización
 
----
+Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial — IFTS N.º 18
 
-## Autor
-
-Gabriela Coronel
-
-Seminario de Actualización — IFTS N.º 18
+Autora: Gabriela Coronel
