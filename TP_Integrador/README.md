@@ -74,15 +74,18 @@ La puntuación devuelta por el modelo no debe interpretarse como una probabilida
 
 ## Ejecutar el proyecto localmente
 
+## Instalación y ejecución local
+
 ### Requisitos previos
 
-Antes de comenzar, instalá:
+Antes de comenzar, necesitás:
 
-* Python 3.10 o 3.11, según la compatibilidad de las dependencias del proyecto.
-* Git.
-* Una conexión a Internet para instalar las dependencias y descargar el modelo.
+- Python 3.12 instalado.
+- Git instalado.
+- Visual Studio Code (opcional).
+- Conexión a Internet para instalar las dependencias y descargar el modelo preentrenado.
 
-Los comandos siguientes están escritos para Windows PowerShell.
+Los siguientes comandos están preparados para **Windows PowerShell**.
 
 ### 1. Clonar el repositorio
 
@@ -92,27 +95,33 @@ Abrí PowerShell y ejecutá:
 git clone https://github.com/lagabyok/Gabriela-Coronel-seminario-de-actualizacion-2026.git
 ```
 
-Ingresá a la carpeta de la aplicación:
+### 2. Ingresar a la carpeta del proyecto
+
+Ingresá a la carpeta que contiene la aplicación:
 
 ```powershell
 cd Gabriela-Coronel-seminario-de-actualizacion-2026/TP_Integrador
 ```
 
-### 2. Crear un entorno virtual
+### 3. Crear el entorno virtual
 
-El entorno virtual permite instalar las dependencias del proyecto de forma aislada.
+El entorno virtual permite instalar las dependencias de forma aislada, sin afectar otros proyectos de Python.
 
 ```powershell
-python -m venv .venv
+py -3.12 -m venv .venv
 ```
 
-### 3. Activar el entorno virtual
+### 4. Activar el entorno virtual
+
+En Windows PowerShell, ejecutá:
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
 ```
 
-Si PowerShell bloquea la activación por la política de ejecución, podés habilitarla temporalmente para la sesión actual:
+Una vez activado, el indicador `(.venv)` aparecerá al comienzo de la línea de la terminal.
+
+Si PowerShell bloquea la activación por la política de ejecución, habilitala temporalmente para la sesión actual:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
@@ -120,18 +129,18 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Después, volvé a ejecutar el comando de activación.
 
-### 4. Instalar las dependencias
+### 5. Instalar las dependencias
 
-Actualizar `pip`:
+Con el entorno virtual activado, actualizá `pip`:
 
 ```powershell
 python -m pip install --upgrade pip
 ```
 
-Instalar las dependencias declaradas en `requirements.txt`:
+Instalá las dependencias declaradas en `requirements.txt`:
 
 ```powershell
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 El archivo `requirements.txt` contiene:
@@ -139,18 +148,20 @@ El archivo `requirements.txt` contiene:
 ```text
 gradio==5.49.1
 transformers
-torch
+torch==2.8.0
 spaces
 ```
 
-* `gradio`: crea la interfaz web.
-* `transformers`: permite cargar y ejecutar el modelo de clasificación.
-* `torch`: proporciona las operaciones de cálculo utilizadas por el modelo.
-* `spaces`: proporciona funcionalidades específicas de Hugging Face Spaces utilizadas por la aplicación.
+Las dependencias principales son:
 
-### 5. Ejecutar la aplicación
+- `gradio`: permite crear la interfaz web interactiva.
+- `transformers`: permite cargar y ejecutar el modelo de clasificación.
+- `torch`: proporciona las operaciones de cálculo utilizadas por el modelo.
+- `spaces`: proporciona funcionalidades específicas de Hugging Face Spaces utilizadas por la aplicación.
 
-Desde la carpeta `TP_Integrador`, ejecutá:
+### 6. Ejecutar la aplicación
+
+Desde la carpeta `TP_Integrador`, con el entorno virtual activado, ejecutá:
 
 ```powershell
 python app.py
@@ -160,7 +171,7 @@ Abrí en el navegador la dirección local que indique Gradio en la terminal. Hab
 
 http://127.0.0.1:7860
 
-La primera ejecución puede tardar más porque el entorno necesita descargar el modelo y preparar sus dependencias.
+La primera ejecución puede tardar más porque el entorno necesita descargar el modelo preentrenado y preparar sus dependencias.
 
 Para detener la aplicación, regresá a la terminal y presioná `Ctrl+C`.
 
@@ -240,6 +251,12 @@ Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial — IFTS N.º
 
 ### Enlaces del proyecto
 
-* **Aplicación online:** https://huggingface.co/spaces/lagabyok/bugtriage-ai
-
 * **Modelo utilizado:** https://huggingface.co/facebook/bart-large-mnli
+* **Código fuente:**  https://github.com/lagabyok/Gabriela-Coronel-seminario-de-actualizacion-2026
+
+
+### Aplicación publicada
+
+También podés probar BugTriage AI sin instalar Python ni configurar un entorno local:
+
+**Demo online:** https://huggingface.co/spaces/lagabyok/bugtriage-ai
