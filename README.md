@@ -40,6 +40,8 @@ Gabriela-Coronel-seminario-de-actualizacion-2026/
 │
 ├── Clase_6TS.pdf
 │
+│── Clase_10 _Notebook.ipynb
+│
 ├── TP_Integrador/
 │   ├── .gradio/
 │   │   └── flagged/
@@ -61,7 +63,9 @@ Gabriela-Coronel-seminario-de-actualizacion-2026/
 - **Clase 04:** desarrollo de interfaces interactivas con Gradio.
 - **Clase 05:** desarrollo y despliegue de aplicaciones con Gradio y Streamlit.
 - **Clase 06 — Revisión de pares:** evaluación del repositorio de un compañero o compañera mediante una rúbrica, con foco en la documentación, la organización, la reproducibilidad y el historial de commits. La entrega se encuentra en `Clase_6TS.pdf`.
+- **Clase 10 —  Notebook Entrenamiento:** Notebook práctico sobre el proceso de entrenamiento de modelos de Machine Learning, desde el dataset y el entrenamiento hasta la evaluación y exportación de modelos con scikit-learn, PyTorch y Keras.`Clase_10_Notebook_Camino_Entrenamiento.ipynb`.
 - **TP Integrador:** desarrollo de BugTriage AI, proyecto de inteligencia artificial realizado como trabajo integrador del seminario.
+
 
 ## 🚀 Requisitos previos
 
